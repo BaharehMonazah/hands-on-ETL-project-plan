@@ -102,6 +102,3 @@ This project is licensed under the MIT License.
 ✅ Implement logging & monitoring using Prometheus & Grafana  
 ✅ Improve error handling & exception logging  
 ✅ Deploy the pipeline to cloud platforms (AWS, GCP)  
-
-Would you like a sample dataset for testing? 😊
-
